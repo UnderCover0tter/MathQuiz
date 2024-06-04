@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zanea\\source\\repos\\Math Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Math Quiz||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC8AA8E-559F-41E9-BDCF-EC7129CC8426}|Math Quiz\\Math Quiz.csproj|C:\\Users\\zanea\\source\\repos\\Math Quiz\\math quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BC8AA8E-559F-41E9-BDCF-EC7129CC8426}|Math Quiz\\Math Quiz.csproj|solutionrelative:math quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC8AA8E-559F-41E9-BDCF-EC7129CC8426}|Math Quiz\\Math Quiz.csproj|C:\\Users\\zanea\\source\\repos\\Math Quiz\\math quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC8AA8E-559F-41E9-BDCF-EC7129CC8426}|Math Quiz\\Math Quiz.csproj|solutionrelative:math quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC8AA8E-559F-41E9-BDCF-EC7129CC8426}|Math Quiz\\Math Quiz.csproj|C:\\Users\\zanea\\source\\repos\\Math Quiz\\math quiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC8AA8E-559F-41E9-BDCF-EC7129CC8426}|Math Quiz\\Math Quiz.csproj|solutionrelative:math quiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC8AA8E-559F-41E9-BDCF-EC7129CC8426}|Math Quiz\\Math Quiz.csproj|c:\\users\\zanea\\source\\repos\\math quiz\\math quiz\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Math Quiz",
+              "DocumentMoniker": "C:\\Users\\zanea\\source\\repos\\Math Quiz\\Math Quiz\\Math Quiz.csproj",
+              "RelativeDocumentMoniker": "Math Quiz\\Math Quiz.csproj",
+              "ToolTip": "C:\\Users\\zanea\\source\\repos\\Math Quiz\\Math Quiz\\Math Quiz.csproj",
+              "RelativeToolTip": "Math Quiz\\Math Quiz.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T01:09:48.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zanea\\source\\repos\\Math Quiz\\Math Quiz\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Math Quiz\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\zanea\\source\\repos\\Math Quiz\\Math Quiz\\Form1.Designer.cs",
+              "RelativeToolTip": "Math Quiz\\Form1.Designer.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAowEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:11:44.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\zanea\\source\\repos\\Math Quiz\\Math Quiz\\Form1.cs",
+              "RelativeDocumentMoniker": "Math Quiz\\Form1.cs",
+              "ToolTip": "C:\\Users\\zanea\\source\\repos\\Math Quiz\\Math Quiz\\Form1.cs",
+              "RelativeToolTip": "Math Quiz\\Form1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwKIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:11:24.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zanea\\source\\repos\\Math Quiz\\Math Quiz\\Form1.cs",
+              "RelativeDocumentMoniker": "Math Quiz\\Form1.cs",
+              "ToolTip": "C:\\Users\\zanea\\source\\repos\\Math Quiz\\Math Quiz\\Form1.cs [Design]",
+              "RelativeToolTip": "Math Quiz\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:05:49.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

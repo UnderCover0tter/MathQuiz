@@ -1,0 +1,14 @@
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.AssemblyReference.cache
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.cache
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.manifest
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.application
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe.manifest
+C:\Users\zanea\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.application
